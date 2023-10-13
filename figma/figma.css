@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid red;
+}
+/* .bg-grad-black{
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+.bg-blue{
+    background: linear-gradient(97.65deg, #60BBEE 0.33%, #0A72AD 93.35%);
+}
+.bg-grad-blue{
+    background: linear-gradient(97.73deg, #399FD8 -6.96%, #0775B4 23.5%, #003756 92.79%); */
+.bg-black{
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+.sec1 {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+
+.mainul>li:hover {
+    cursor: pointer;
+    color: white;
+}
+.discoverbtn {
+    background-image: linear-gradient(#1da6f5 100%, #0e4e73 100%);
+}
+.imgdiv {
+    /* border: 1px solid red; */
+}
+
+.bluediv {
+    position: absolute;
+    background: linear-gradient(97.73deg, #399FD8 -6.96%, #0775B4 23.5%, #003756 92.79%);
+}
+.pixabay{
+    background-image: url(./images/pexels-pixabay-209251.png);
+    background-size: 100% 100%;
+}
+.alesia {
+    background-image: url(./images/pexels-alesia-kozik-6016680\ 1.png);
+    background-size: 100% 100%;
+}
+.tobias {
+    background-image: url(./images/pexels-tobias-bjørkli-2119714\ 1.png);
+    background-size: 100% 100%;
+}
+.splash{
+    background-image: url(./images/unsplash_kerFMg52cUA.png);
+    background-size: 100% 100%;
+}
+.sq{
+    background-image: url(./images/unsplash_yqu6tJkSQ_k.png);
+    background-size: 100% 100%;
+}
+.kp{
+    background-image: url(./images/unsplash_4ojhpgKpS68.png);
+    background-size: 100% 100%;
+}
+.unsplash{
+    background-image: url(./images/unsplash_QdAAasrZhdk.png);
+    background-size:100% 100%;
+}
